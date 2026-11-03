@@ -1,7 +1,7 @@
 # INTEGRANTES
-# Carolina Dorado - Carolina.dorado@uao.edu.co
-# Roberto Baez   - Roberto_ale.baez@uao.edu.co
-# Jorge Cifuentes - jorge_alb.cifuentes@uao.edu.co
+# 1. Carolina Dorado - Carolina.dorado@uao.edu.co
+# 2. Roberto Baez   - Roberto_ale.baez@uao.edu.co
+# 3. Jorge Cifuentes - jorge_alb.cifuentes@uao.edu.co
 
 # Sistema Integrado de Detección de Neumonía - UAO Virtual
 
