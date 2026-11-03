@@ -1,3 +1,8 @@
+# INTEGRANTES
+# 1. Carolina Dorado - Carolina.dorado@uao.edu.co
+# 2. Roberto Baez   - Roberto_ale.baez@uao.edu.co
+# 3. Jorge Cifuentes - jorge_alb.cifuentes@uao.edu.co
+
 # Sistema Integrado de Detección de Neumonía - UAO Virtual
 
 Este proyecto ha sido refactorizado bajo un patrón arquitectónico **Modelo-Vista-Controlador (MVC)**, logrando alta cohesión y bajo acoplamiento a partir de un script monolítico original de 251 líneas. Cuenta con empaquetado reproducible moderno mediante `uv` y validación automática de pruebas unitarias.
